@@ -2,11 +2,12 @@
 
 <hr>
 
-<p align="center">Mesa de som que reproduz audios</p>
+<p align="center">Mesa de som que reproduz áudios.</p>
 
 ## Tecnologias utilizadas no projeto
 * HTML
 * CSS
 * Javascript
-
+  
+## Link:
 https://joao-carmassi.github.io/Aluramidi/
