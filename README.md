@@ -10,4 +10,4 @@
 * Javascript
   
 ## Link:
-https://joao-carmassi.github.io/Aluramidi/
+https://joao-carmassi.github.io/aluramidi/
